@@ -1,0 +1,22 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+*.env
+
+# PyCharm
+.idea/
+
+# Virtualenv
+venv/
+env/
+
+# Database
+/db/*.db
+/db/*.sqlite3
+
+# Logs
+*.log
